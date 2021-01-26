@@ -1,2 +1,4 @@
 # hello-world
-hello!
+Hello!
+
+We all exist to be better!
